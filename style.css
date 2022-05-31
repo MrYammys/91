@@ -1,0 +1,43 @@
+body
+{
+	background-color: crimson;
+}
+
+    div
+    {
+		
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+        width: 1000px;
+	}
+
+
+#number1 , #number2
+{
+	display: inline-block;
+	margin-left: 20px;
+	width: 80%;
+}
+input
+{
+    width: 800px;
+    height: 20px;
+}
+#h11{
+	color: white;
+}
+#output
+{
+	background-color: white;
+	border-radius: 10px;
+	border-top: 10px solid #AA4465;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
+h4
+{
+	font-weight: bold;
+	margin-left: 50px;
+}
